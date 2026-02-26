@@ -11,7 +11,6 @@ int main() {
     for (i = 1; i <= 5; i++){
         printf("Direita\n");
     }
-
     // Implementação de Movimentação do Bispo
     // Estrutura de repetição para simular a movimentação do Bispo em diagonal.
     printf("Movimentação do Bispo:\n");
